@@ -1,0 +1,15 @@
+.skill{
+    width: auto;
+    background-color: #dcf8ef;
+
+}
+.icon{
+    height: 60px;
+    width: 60px;
+    margin: 0 auto;
+    background-color: #282c34;
+}
+h3 {
+    display: flex;
+    justify-content: center;
+}

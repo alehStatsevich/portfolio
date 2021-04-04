@@ -1,0 +1,35 @@
+.work{
+    width: auto;
+    background-color: #75d9b9;
+
+}
+.icon{
+    height: 250px;
+    width: 250px;
+    margin: 0 auto;
+    background-color: #b37db8;
+}
+.button{
+    display: flex;
+    flex-direction: row;
+    background-color: red;
+    justify-content: flex-end;
+    align-items: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 4px;
+    overflow: hidden;
+    transition: 0.2s;
+    cursor: pointer;
+    margin: 0 auto;
+}
+.button:hover{
+
+    background-color: #2196f3;
+    color: #282c34;
+    box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+    transition-delay: 1s;
+}
+.description{
+
+}

@@ -1,0 +1,16 @@
+.main{
+    min-height: 200px;
+    background-color: #f6d4b2;
+}
+.mainContainer{
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.icons{
+    height: 50px;
+    width: 50px;
+    display:flex;
+    justify-content: space-around;
+    cursor: pointer;
+    margin: 5px;
+}

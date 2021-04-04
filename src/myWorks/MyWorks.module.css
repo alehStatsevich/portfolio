@@ -1,0 +1,17 @@
+.myWorksBlock{
+    min-height: 100vh;
+    background-color: #dcbfe9;
+}
+.myWorksContainer{
+    flex-direction: column;
+    justify-content: flex-start;
+}
+h2{
+    background-color: #f8b003;
+}
+.myWork{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
